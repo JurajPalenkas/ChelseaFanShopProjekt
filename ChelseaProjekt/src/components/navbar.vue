@@ -16,15 +16,21 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <RouterLink class="nav-link" to="/" active-class="active">Home</RouterLink>
+      <ul class="navbar-nav">
+        <li class="nav-item mx-4">
+          <RouterLink class="nav-link" to="/" active-class="active">
+            <i class="fas fa-home"></i> Home
+          </RouterLink>
         </li>
-        <li class="nav-item">
-          <RouterLink class="nav-link" to="/products" active-class="active">Products</RouterLink>
+        <li class="nav-item mx-4">
+          <RouterLink class="nav-link" to="/products" active-class="active">
+            <i class="fas fa-box-open"></i> Products
+          </RouterLink>
         </li>
-        <li class="nav-item">
-          <RouterLink class="nav-link" to="/cart" active-class="active">Cart</RouterLink>
+        <li class="nav-item mx-4">
+          <RouterLink class="nav-link" to="/cart" active-class="active">
+            <i class="fas fa-shopping-cart"></i> Cart
+          </RouterLink>
         </li>
       </ul>
     </div>
@@ -34,13 +40,16 @@
 <script>
 export default {
   name: "Navbar",
-  created() {},
-  data() {
-    return {};
-  },
-  props: {},
-  methods: {},
 };
 </script>
 
-<style lang="scss" scoped></style>
+<style scoped>
+.navbar-nav {
+  flex-direction: row;
+}
+
+.nav-item {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+</style>
