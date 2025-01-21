@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "name": "Robert Sánchez",
+        "position": "Goalkeeper",
+        "number": 1,
+        "image": "/img/hraci/sanchez.webp",
+        "bio": "Robert Sánchez is a reliable goalkeeper known for his excellent reflexes and command of the penalty area.",
+        "stats": {
+            "appearances": 20,
+            "clean_sheets": 8,
+            "saves": 68,
+            "goals_conceded": 24
+        }
+    },
+
+    {
+        "id": 2,
+        "name": "Axel Disasi",
+        "position": "Defender",
+        "number": 2,
+        "image": "/img/hraci/disasi.webp",
+        "bio": "Axel Disasi is a strong centre-back known for his physical presence and ball-playing abilities.",
+        "stats": {
+            "appearances": 18,
+            "goals": 2,
+            "assists": 1
+        }
+    },
+    {
+        "id": 3,
+        "name": "Marc Cucurella",
+        "position": "Defender",
+        "number": 3,
+        "image": "/img/hraci/cucurella.webp",
+        "bio": "Marc Cucurella is a left-back with excellent speed and the ability to support the attack.",
+        "stats": {
+            "appearances": 16,
+            "goals": 0,
+            "assists": 3
+        }
+    },
+    {
+        "id": 4,
+        "name": "Tosin Adarabioyo",
+        "position": "Defender",
+        "number": 4,
+        "image": "/img/hraci/tosin.webp",
+        "bio": "Tosin Adarabioyo is a reliable centre-back with good game reading and strong aerial abilities.",
+        "stats": {
+            "appearances": 15,
+            "goals": 1,
+            "assists": 0
+        }
+    },
+    {
+        "id": 5,
+        "name": "Benoît Badiashile",
+        "position": "Defender",
+        "number": 5,
+        "image": "/img/hraci/benoit.webp",
+        "bio": "Benoît Badiashile is a young centre-back with great potential and a strong physical presence.",
+        "stats": {
+            "appearances": 12,
+            "goals": 1,
+            "assists": 0
+        }
+    },
+    {
+        "id": 6,
+        "name": "Levi Colwill",
+        "position": "Defender",
+        "number": 6,
+        "image": "/img/hraci/levi.webp",
+        "bio": "Levi Colwill is a talented defender with excellent game reading and ball-playing abilities.",
+        "stats": {
+            "appearances": 14,
+            "goals": 0,
+            "assists": 2
+        }
+    },
+    {
+        "id": 7,
+        "name": "Pedro Neto",
+        "position": "Forward",
+        "number": 7,
+        "image": "/img/hraci/neto.webp",
+        "bio": "Pedro Neto is a quick winger with excellent technique and the ability to create chances.",
+        "stats": {
+            "appearances": 17,
+            "goals": 5,
+            "assists": 7
+        }
+    },
+    {
+        "id": 8,
+        "name": "Enzo Fernández",
+        "position": "Midfielder",
+        "number": 8,
+        "image": "/img/hraci/enzo.webp",
+        "bio": "Enzo Fernández is a creative midfielder with excellent vision and passing skills.",
+        "stats": {
+            "appearances": 19,
+            "goals": 3,
+            "assists": 6
+        }
+    },
+    {
+        "id": 9,
+        "name": "Cole Palmer",
+        "position": "Forward",
+        "number": 9,
+        "image": "/img/hraci/cole.png",
+        "bio": "Cole Palmer is a talented forward known for his speed and agility.",
+        "stats": {
+            "appearances": 20,
+            "goals": 15,
+            "assists": 10
+        }
+    },
+    {
+        "id": 10,
+        "name": "Noni Madueke",
+        "position": "Forward",
+        "number": 10,
+        "image": "/img/hraci/madueke.webp",
+        "bio": "Noni Madueke is a dynamic winger known for his dribbling skills and ability to take on defenders.",
+        "stats": {
+            "appearances": 20,
+            "goals": 6,
+            "assists": 3
+        }
+    },
+    {
+        "id": 11,
+        "name": "Nicolas Jackson",
+        "position": "Forward",
+        "number": 11,
+        "image": "/img/hraci/jackson.webp",
+        "bio": "Nicolas Jackson is a prolific striker with a keen eye for goal and excellent positioning.",
+        "stats": {
+            "appearances": 21,
+            "goals": 9,
+            "assists": 4
+        }
+    },
+    {
+        "id": 12,
+        "name": "Christopher Nkunku",
+        "position": "Forward",
+        "number": 12,
+        "image": "/img/hraci/nkunku.webp",
+        "bio": "Christopher Nkunku is a versatile forward capable of playing in multiple attacking positions.",
+        "stats": {
+            "appearances": 18,
+            "goals": 2,
+            "assists": 1
+        }
+    },
+    {
+        "id": 13,
+        "name": "Reece James",
+        "position": "Defender",
+        "number": 13,
+        "image": "/img/hraci/reece.webp",
+        "bio": "Reece James is a right-back known for his defensive solidity and ability to contribute to the attack.",
+        "stats": {
+            "appearances": 15,
+            "goals": 1,
+            "assists": 4
+        }
+    },
+    {
+        "id": 14,
+        "name": "Malo Gusto",
+        "position": "Defender",
+        "number": 14,
+        "image": "/img/hraci/malo.webp",
+        "bio": "Malo Gusto is a promising right-back with great pace and crossing ability.",
+        "stats": {
+            "appearances": 12,
+            "goals": 0,
+            "assists": 2
+        }
+    }
+]

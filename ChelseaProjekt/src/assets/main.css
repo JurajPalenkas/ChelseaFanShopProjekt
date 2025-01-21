@@ -1,0 +1,13 @@
+nav{
+  background-color: #001489;
+}
+
+nav a{
+  color: white !important;
+}
+
+nav a:hover{
+  color: #ffcc00 !important;
+}
+
+

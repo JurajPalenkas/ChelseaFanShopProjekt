@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Chelsea Home Jersey 2024/25",
+    "price": 89.99,
+    "description": "Official Chelsea FC home jersey for the 2024/25 season.",
+    "image": "/img/mencp20.png",
+    "category": "Apparel"
+  },
+  {
+    "id": 2,
+    "name": "Chelsea Away Jersey 2024/25",
+    "price": 89.99,
+    "description": "Official Chelsea FC away jersey for the 2024/25 season.",
+    "image": "img/second.png",
+    "category": "Apparel"
+  },
+  {
+    "id": 3,
+    "name": "Chelsea Third Jersey 2024/25",
+    "price": 89.99,
+    "description": "Official Chelsea FC third jersey for the 2024/25 season.",
+    "image": "img/js19third.png",
+    "category": "Apparel"
+  },
+  {
+    "id": 4,
+    "name": "Chelsea Nike Strike Fleece Down Hooded Parka - Black",
+    "price": 249.99,
+    "description": "Chelsea Nike Strike Fleece Down Hooded Parka - Black ",
+    "image": "img/men.png",
+    "category": "Apparel"
+  },
+  {
+    "id": 5,
+    "name": "Chelsea Scarf",
+    "price": 19.99,
+    "description": "Official Chelsea FC scarf.",
+    "image": "img/scarf.png",
+    "category": "Accessories"
+  },
+  {
+    "id": 6,
+    "name": "Chelsea Cap",
+    "price": 24.99,
+    "description": "Official Chelsea FC cap.",
+    "image": "/img/cap.png",
+    "category": "Accessories"
+  },
+  {
+    "id": 7,
+    "name": "Chelsea Blueprint Mug - 11oz",
+    "price": 14.99,
+    "description": "Chelsea Blueprint Mug - 11oz",
+    "image": "/img/mug.avif",
+    "category": "Home & Office"
+  },
+  {
+    "id": 8,
+    "name": "Chelsea Backpack",
+    "price": 49.99,
+    "description": "Official Chelsea FC backpack.",
+    "image": "/img/backpack.avif",
+    "category": "Bags"
+  },
+  {
+    "id": 9,
+    "name": "Chelsea Ball",
+    "price": 29.99,
+    "description": "Chelsea Tracer Football - Size 5",
+    "image": "/img/ball.webp",
+    "category": "Sports Equipment"
+  },
+  {
+    "id": 10,
+    "name": "Chelsea Keychain",
+    "price": 9.99,
+    "description": "Official Chelsea FC keychain.",
+    "image": "/img/keychain.webp",
+    "category": "Accessories"
+  }
+]
